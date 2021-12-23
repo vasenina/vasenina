@@ -1,7 +1,7 @@
 ### Hello,  I'm Yuliya, 
- I open for job oportunities as a Frontend Developer.
+ I'm open to job oportunities as a Frontend Developer.
 
-![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=4AB197)
 
 
