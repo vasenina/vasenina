@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello,  I'm Yuliya, 
+ I open for job oportunities as a Frontend Developer.
+
+![React Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=4AB197)
+
 
 <!--
 **vasenina/vasenina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
