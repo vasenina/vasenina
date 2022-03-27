@@ -1,6 +1,6 @@
 ### Hello,  I'm Yuliya, 
 
- I am a Web frontend developer with 6 years of IT project management and education in Computer Science. I'm open to new technologies and learning new things.
+ I am a Web developer with 6 years of IT project management and education in Computer Science. I'm open to new technologies and learning new things.
 
 
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
